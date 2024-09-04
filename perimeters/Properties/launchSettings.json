@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "perimeters": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7267",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ConnectionStringColl": "Endpoint=https://connectionstringappconfig.azconfig.io;Id=MxL7-l9-s0:klYiQ2pG6n0Ti6mqhAOW;Secret=4maEN4rjZnHMyD1FuxXg3fEnB7XhPloul06H12B/2J8="
+      }
+    }
+  }
+}
